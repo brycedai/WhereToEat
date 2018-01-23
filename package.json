@@ -1,10 +1,11 @@
 {
   "name": "where_to_eat",
   "version": "1.0.0",
-  "description": "An app that helps people choose a restaurant to eat ata",
+  "description": "An app that helps people choose a restaurant to eat at",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Bryce Dai",
   "license": "ISC",
