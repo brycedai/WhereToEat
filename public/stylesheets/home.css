@@ -8,7 +8,7 @@ h1 {
 }
 
 /* Smartphones (portrait) ----------- */
-@media only screen and (max-width : 320px) {
+@media only screen and (max-width : 768px) {
     #search {
         width: 50%;
         margin: 20px auto;
